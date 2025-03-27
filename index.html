@@ -1,1 +1,63 @@
-Welcome to my homepage!
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historier fra Minecraft</title>
+    <style>
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #5c913b;
+            color: #fff;
+            display: flex;
+        }
+        #menu {
+            width: 250px;
+            background-color: #3e6213;
+            padding: 20px;
+            height: 100vh;
+        }
+        #menu a {
+            display: block;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #2e4d0b;
+            border-radius: 5px;
+        }
+        #menu a:hover {
+            background-color: #1e3b08;
+        }
+        #content {
+            flex-grow: 1;
+            padding: 20px;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script>
+        function showStory(story) {
+            document.getElementById('content').innerHTML = stories[story];
+        }
+        
+        const stories = {
+            'steve-eventyr': `<h2>Steve sitt første eventyr</h2><p>Steve våknet i en ny verden. Han begynte å hugge trær for å skaffe seg ressurser. Snart hadde han bygget et lite hus av tre!</p>` ,
+            'steve-gruver': `<h2>Steve drar på gruvedrift</h2><p>Med sin trofaste hakke dro Steve ned i hulene. Der fant han kull, jern og til slutt diamanter!</p>`,
+            'steve-nether': `<h2>Steve besøker Nether</h2><p>Steve bygget en portal og steg inn i Nether. Lava, pigmen og farlige ghasts ventet ham. Han måtte være forsiktig!</p>`
+        };
+    </script>
+</head>
+<body>
+    <div id="menu">
+        <h2>Historier</h2>
+        <a href="#" onclick="showStory('steve-eventyr')">Steve sitt første eventyr</a>
+        <a href="#" onclick="showStory('steve-gruver')">Steve drar på gruvedrift</a>
+        <a href="#" onclick="showStory('steve-nether')">Steve besøker Nether</a>
+    </div>
+    <div id="content">
+        <h2>Velkommen!</h2>
+        <p>Velg en historie fra menyen.</p>
+    </div>
+</body>
+</html>
+
