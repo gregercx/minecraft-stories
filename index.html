@@ -33,6 +33,15 @@
             flex-grow: 1;
             padding: 20px;
         }
+        img {
+            width: 100%;
+            /* max-width: 400px; */
+            /* max-width: 400px; */
+            display: block;
+            margin-top: 10px;
+            margin: auto;
+
+        }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <script>
@@ -41,8 +50,20 @@
         }
         
         const stories = {
-            'steve-eventyr': `<h2>Steve sitt første eventyr</h2> <p>
-            Steve våknet i en ny verden. Han begynte å hugge trær for å skaffe seg ressurser. Snart hadde han bygget et lite hus av tre!
+            'steve-eventyr': `<h2>Steves store dag</h2> <p>
+            Steve våknet. Sola skinte. Han var klar!<p>
+            Han tok en hakke. Han måtte finne stein. Han gikk ut. Der var en hule! Mørk og dyp.
+            <p>
+            Steve gikk inn. Det var kaldt. Han fant kull. Bra! Nå kunne han lage lys.
+            <p>
+            Plutselig! En lyd. "Hisss..."
+            <p>
+            En creeper! Steve løp! Creeperen kom nær. BOOM!
+            <p>
+            Steve var trygg. Puh! Han bygget en dør. Nå var hulen hans hjem.
+            <p>
+            Han smilte. En fin dag i Minecraft!
+            <img src='images/creeper.png' alt='En creeper!'>
             </p>` ,
             'steve-gruver': `<h2>Steve drar på gruvedrift</h2><p>
             Med sin trofaste hakke dro Steve ned i hulene. Der fant han kull, jern og til slutt diamanter!
@@ -56,13 +77,14 @@
 <body>
     <div id="menu">
         <h2>Historier</h2>
-        <a href="#" onclick="showStory('steve-eventyr')">Steve sitt første eventyr</a>
+        <a href="#" onclick="showStory('steve-eventyr')">Steves store dag</a>
         <a href="#" onclick="showStory('steve-gruver')">Steve drar på gruvedrift</a>
         <a href="#" onclick="showStory('steve-nether')">Steve besøker Nether</a>
     </div>
     <div id="content">
         <h2>Velkommen!</h2>
-        <p>Velg en historie fra menyen.</p>
+        <p>Velg en historie om Steves opplevelser i Minecraft i menyen til venstre.</p>
+        <img src='images/welcome.jpg' alt='Velkommen til Minecraft!'>
     </div>
 </body>
 </html>
