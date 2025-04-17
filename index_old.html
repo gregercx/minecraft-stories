@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historier fra Minecraft</title>
+    <style>
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color:#80cfd7; 
+            color: #fff;
+            display: flex;
+        }
+        #menu {
+            width: 250px;
+            background-color: #28a59c;
+            padding: 20px;
+            height: 100vh;
+        }
+        #menu a {
+            display: block;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #207e8a;
+            border-radius: 5px;
+        }
+        #menu a:hover {
+            background-color: #1eb3c1;
+        }
+        #content {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        img {
+            width: 100%;
+            /* max-width: 400px; */
+            /* max-width: 400px; */
+            display: block;
+            margin-top: 10px;
+            margin: auto;
+
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script>
+        function showStory(story) {
+            document.getElementById('content').innerHTML = stories[story];
+        }
+        
+        const stories = {
+            'steve-eventyr': `<h2>Steves store dag</h2> <p>
+            Steve våknet. Sola skinte. Han var klar!<p>
+            Han tok en hakke. Han måtte finne stein. Han gikk ut. Der var en hule! Mørk og dyp.
+            <p>
+            Steve gikk inn. Det var kaldt. Han fant kull. Bra! Nå kunne han lage lys.
+            <p>
+            Plutselig! En lyd. "Hisss..."
+            <p>
+            En creeper! Steve løp! Creeperen kom nær. BOOM!
+            <p>
+            Steve var trygg. Puh! Han bygget en dør. Nå var hulen hans hjem.
+            <p>
+            Han smilte. En fin dag i Minecraft!
+            <p>
+            <img src='images/steve_with_creeper.png' alt='En creeper!'>
+            </p>` ,
+
+
+            'steve-gruver': `<h2>Steve drar på gruvedrift</h2><p>
+            Med sin hahahahahaha hakke dro Steve ned i hulene. Der fant han kull, jern og til slutt diamanter!
+            </p>`,
+
+
+
+            'steve-nether': `<h2>Steve besøker Nether</h2><p>
+            Steve bygget en portal og steg inn i Nether. Lava, pigmen og farlige ghasts ventet ham. Han måtte være forsiktig!
+            </p>`
+        };
+    </script>
+</head>
+<body>
+    <div id="menu">
+        <h2>Historier</h2>
+        <a href="#" onclick="showStory('steve-eventyr')">Steves store dag</a>
+        <a href="#" onclick="showStory('steve-gruver')">Steve drar på gruvedrift</a>
+        <a href="#" onclick="showStory('steve-nether')">Steve besøker Nether</a>
+    </div>
+    <div id="content">
+        <h2>Velkommen!</h2>
+        <p>Velg en historie om Steves opplevelser i Minecraft i menyen til venstre.</p>
+        <img src='images/welcome.jpg' alt='Velkommen til Minecraft!'>
+    </div>
+</body>
+</html>
+

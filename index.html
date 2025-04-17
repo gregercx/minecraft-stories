@@ -7,15 +7,16 @@
     <style>
         body {
             font-family: 'Press Start 2P', cursive;
-            background-color:#80cfd7; 
+            background-color: #80cfd7; /* Minecraft sky blue */
             color: #fff;
             display: flex;
         }
         #menu {
             width: 250px;
-            background-color: #28a59c;
+            background-color: #28a59c; /* Minecraft grass green */
             padding: 20px;
             height: 100vh;
+            overflow-y: auto;
         }
         #menu a {
             display: block;
@@ -35,12 +36,9 @@
         }
         img {
             width: 100%;
-            /* max-width: 400px; */
-            /* max-width: 400px; */
             display: block;
             margin-top: 10px;
             margin: auto;
-
         }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
@@ -50,42 +48,81 @@
         }
         
         const stories = {
-            'steve-eventyr': `<h2>Steves store dag</h2> <p>
-            Steve våknet. Sola skinte. Han var klar!<p>
-            Han tok en hakke. Han måtte finne stein. Han gikk ut. Der var en hule! Mørk og dyp.
-            <p>
-            Steve gikk inn. Det var kaldt. Han fant kull. Bra! Nå kunne han lage lys.
-            <p>
-            Plutselig! En lyd. "Hisss..."
-            <p>
-            En creeper! Steve løp! Creeperen kom nær. BOOM!
-            <p>
-            Steve var trygg. Puh! Han bygget en dør. Nå var hulen hans hjem.
-            <p>
-            Han smilte. En fin dag i Minecraft!
+            'steves-store-dag': `<h2>Steves store dag</h2>
+            <p>Steve våknet. Sola skinner. Han var klar!</p>
+            <p>Han tok en hakke. Han måtte finne stein. Han gikk ut. Der var en hule! Mørk og dyp.</p>
+            <p>Steve gikk inn. Det var kaldt. Han fant kull. Bra! Nå kunne han lage lys.</p>
+            <p>Plutselig! En lyd. "Hisss..."</p>
+            <p>En creeper! Steve løp! Creeperen kom nær. BOOM!</p>
+            <p>Steve var trygg. Puh! Han bygget en dør. Nå var hulen hans hjem.</p>
+            <p>Han smilte. En fin dag i Minecraft!</p>
             <p>
             <img src='images/steve_with_creeper.png' alt='En creeper!'>
-            </p>` ,
-
-
-            'steve-gruver': `<h2>Steve drar på gruvedrift</h2><p>
-            Med sin hahahahahaha hakke dro Steve ned i hulene. Der fant han kull, jern og til slutt diamanter!
             </p>`,
 
+            'steves-nye-venn': `<h2>Steves nye venn</h2>
+            <p>Neste dag våknet Steve tidlig. Sola skinte. Han var klar for eventyr!</p>
+            <p>Han gikk ut. Skogen var stor. Han så et tre. Hugge, hugge! Nå hadde han mer tre.</p>
+            <p>Plutselig hørte han en lyd. "Voof!"</p>
+            <p>En hund! Den så på Steve. Var den snill?</p>
+            <p>Steve hadde et bein. Han rakte det fram. Hunden spiste. Poff! Nå hadde han en venn!</p>
+            <p>"Kom, vi går!" sa Steve. Ulven fulgte etter. Nå var Steve ikke alene.</p>
+            <p>En ny, fin dag i Minecraft!</p>`,
 
+            'steves-forste-gard': `<h2>Steves første gård</h2>
+            <p>Neste dag våknet Steve og hunden. Magen rumlet. De trengte mat!</p>
+            <p>Steve gikk til en elv. Plask! Der vokste det sukker. Han tok litt.</p>
+            <p>Så fant han høy. Han fikk frø! Han gravde jord. Plante, plante! Nå måtte han vente.</p>
+            <p>Plutselig – "Møø!" En ku! Steve hentet litt høy. Kua fulgte etter.</p>
+            <p>Steve bygget et gjerde. Nå hadde han en ku! Snart ville han få melk.</p>
+            <p>Hunden bjeffet glad. Nå hadde de mat snart.</p>`,
 
-            'steve-nether': `<h2>Steve besøker Nether</h2><p>
-            Steve bygget en portal og steg inn i Nether. Lava, pigmen og farlige ghasts ventet ham. Han måtte være forsiktig!
-            </p>`
+            'steves-forste-brod': `<h2>Steves første brød</h2>
+            <p>Neste dag så Steve på åkeren. Wow! Hveten hadde vokst!</p>
+            <p>Han løp bort. Klipp, klipp! Nå hadde han hvete.</p>
+            <p>Steve gikk til bordet sitt. Han la hveten der. Trykk, trykk!</p>
+            <p>Hurra! Brød! Han spiste. Mmm, godt!</p>
+            <p>Ulven så på. "Voff!" Den ville også ha mat.</p>
+            <p>Steve smilte. "Kom, vi finner kjøtt til deg!"</p>
+            <p>Så dro de ut på jakt. En ny, fin dag i Minecraft!</p>`,
+
+            'steves-gruveeventyr-del-1': `<h2>Steves gruveeventyr – Del 1</h2>
+            <p>Steve våknet tidlig. Hunden lå ved døra og sov. Han strakte seg og så ut. Det var en fin dag for å gå i gruva!</p>
+            <p>Han pakket sekken. Hakke? Ja. Mat? Ja. Fakler? Mange. Han klappet hunden. "Bli her, jeg er snart tilbake!"</p>
+            <p>Han gikk til en hule han så i går. Det var mørkt, men han tente en fakkel og gikk inn. Det var stein overalt. Så hørte han *pling!* Jern! Han hogde det ut og tok det med.</p>
+            <p>Lenger inn fant han gull. Så fant han diamanter! "Dette var lurt!" sa han.</p>
+            <p>Men så – en lyd bak ham. *Grrr…* En zombie! Og flere kom!</p>
+            <p>Steve tok sverdet. "Kom igjen!"</p>`,
+
+            'steves-gruveeventyr-del-2': `<h2>Steves gruveeventyr – Del 2</h2>
+            <p>Zombien kom nærmere. Så kom en til. Og en til! Steve slo den første – SMACK! Den rygget, men de andre kom også.</p>
+            <p>Han snudde seg og løp. Gruva var mørk. Bare faklene lyste. Han måtte ut!</p>
+            <p>Men – et hull! Han prøvde å stoppe, men skled. "NEEEI!"</p>
+            <p>Han falt ned i en ny hule. Det dundret da han landet. "Hvor er jeg nå?" sa han.</p>
+            <p>Han tente en fakkel. Så så han – en **kiste!**</p>
+            <p>Hjertet banket fort. Hva var inni?</p>
+            <p>Han åpnet lokket…</p>`,
+
+            'steves-gruveeventyr-del-3': `<h2>Steves gruveeventyr – Del 3</h2>
+            <p>Steve så i kista. **45 diamanter! 3 magiske epler! 64 jern!**</p>
+            <p>"Wow!" sa han og tok alt. Nå måtte han komme seg ut – fort!</p>
+            <p>Det var ingen vei opp. Men han hadde jern! Han lagde en bøtte, fant vann og helte det ned. Nå kunne han klatre!</p>
+            <p>Sakte klatret han opp. Han snek seg forbi zombiene og løp hjem.</p>
+            <p>Hunden ventet ved døra. "Se hva jeg fant!" sa Steve og viste en diamant. Hunden bjeffet.</p>
+            <p>I morgen skulle han lage **diamantrustning og et nytt sverd**. Han var klar for neste tur!</p>`
         };
     </script>
 </head>
 <body>
     <div id="menu">
         <h2>Historier</h2>
-        <a href="#" onclick="showStory('steve-eventyr')">Steves store dag</a>
-        <a href="#" onclick="showStory('steve-gruver')">Steve drar på gruvedrift</a>
-        <a href="#" onclick="showStory('steve-nether')">Steve besøker Nether</a>
+        <a href="#" onclick="showStory('steves-store-dag')">Steves store dag</a>
+        <a href="#" onclick="showStory('steves-nye-venn')">Steves nye venn</a>
+        <a href="#" onclick="showStory('steves-forste-gard')">Steves første gård</a>
+        <a href="#" onclick="showStory('steves-forste-brod')">Steves første brød</a>
+        <a href="#" onclick="showStory('steves-gruveeventyr-del-1')">Steves gruveeventyr – Del 1</a>
+        <a href="#" onclick="showStory('steves-gruveeventyr-del-2')">Steves gruveeventyr – Del 2</a>
+        <a href="#" onclick="showStory('steves-gruveeventyr-del-3')">Steves gruveeventyr – Del 3</a>
     </div>
     <div id="content">
         <h2>Velkommen!</h2>
@@ -94,4 +131,3 @@
     </div>
 </body>
 </html>
-
