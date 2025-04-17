@@ -1,28 +1,28 @@
-# Minecraft Stories
 
-- [Steves store dag](#steves-store-dag)
-- [Steves nye venn](#steves-nye-venn)
-- [Steves første gård](#steves-første-gård)
-- [Steves første brød](#steves-første-brød)
-- [Steves store gruveeventyr](#steves-store-gruveeventyr)
-- [Steves store gruveeventyr – Del 2](#steves-store-gruveeventyr--del-2)
-- [Steves store gruveeventyr – Del 3](#steves-store-gruveeventyr--del-3)
-- [Steve og portalen til Nether](#steve-og-portalen-til-nether)
-- [Steve og Nether-festen](#steve-og-nether-festen)
-- [Steve og Wither-skjelettet](#steve-og-wither-skjelettet)
-- [Steve og jakten på Ancient Debris](#steve-og-jakten-på-ancient-debris)
-- [Steve og Enderman-jakten](#steve-og-enderman-jakten)
-- [Steve og Enderman-jakten – Fortsettelse](#steve-og-enderman-jakten--fortsettelse)
-- [Steve og blaze-jakta](#steve-og-blaze-jakta)
-- [Steve og magiske øyet](#steve-og-magiske-øyet)
-- [Steve og Enderportalen](#steve-og-enderportalen)
-- [Steve og jakta på Elytra](#steve-og-jakta-på-elytra)
+# Historier om Steve fra Minecraft
 
----
+- [Historier om Steve fra Minecraft](#historier-om-steve-fra-minecraft)
+  - [Steves store dag](#steves-store-dag)
+  - [Steves nye venn](#steves-nye-venn)
+  - [Steves første gård](#steves-første-gård)
+  - [Steves første brød](#steves-første-brød)
+  - [Steves store gruveeventyr - Del 1](#steves-store-gruveeventyr---del-1)
+  - [Steves store gruveeventyr – Del 2](#steves-store-gruveeventyr--del-2)
+  - [Steves store gruveeventyr – Del 3](#steves-store-gruveeventyr--del-3)
+  - [Steve og portalen til Nether](#steve-og-portalen-til-nether)
+  - [Steve og Nether-festen](#steve-og-nether-festen)
+  - [Steve og Wither-skjelettet](#steve-og-wither-skjelettet)
+  - [Steve og jakten på Ancient Debris](#steve-og-jakten-på-ancient-debris)
+  - [Steve og Enderman-jakten](#steve-og-enderman-jakten)
+  - [Steve og Enderman-jakten – Fortsettelse](#steve-og-enderman-jakten--fortsettelse)
+  - [Steve og blaze-jakta](#steve-og-blaze-jakta)
+  - [Steve og magiske øyet](#steve-og-magiske-øyet)
+  - [Steve og Enderportalen](#steve-og-enderportalen)
+  - [Steve og jakta på Elytra](#steve-og-jakta-på-elytra)
 
-**Steves store dag**
+## Steves store dag
 
-Steve våknet. Sola skinte. Han var klar!  
+Steve våknet. Sola skinner. Han var klar!  
 
 Han tok en hakke. Han måtte finne stein. Han gikk ut. Der var en hule! Mørk og dyp.  
 
@@ -34,10 +34,9 @@ En creeper! Steve løp! Creeperen kom nær. BOOM!
 
 Steve var trygg. Puh! Han bygget en dør. Nå var hulen hans hjem.  
 
-Han smilte. En fin dag i Minecraft!  
+Han smilte. En fin dag i Minecraft!   
 
-
-**Steves nye venn**  
+## Steves nye venn
 
 Neste dag våknet Steve tidlig. Sola skinte. Han var klar for eventyr!  
 
@@ -53,7 +52,7 @@ Steve hadde et bein. Han rakte det fram. Ulven spiste. Poff! Nå hadde han en ve
 
 En ny, fin dag i Minecraft!  
 
-**Steves første gård**  
+## Steves første gård
 
 Neste dag våknet Steve og ulven. Magen rumlet. De trengte mat!  
 
@@ -70,7 +69,7 @@ Ulven bjeffet glad. Nå hadde de mat snart.
 En ny, fin dag i Minecraft!
 
 
-**Steves første brød**  
+## Steves første brød
 
 Neste dag så Steve på åkeren. Wow! Hveten hadde vokst!  
 
@@ -89,9 +88,7 @@ Så dro de ut på jakt. En ny, fin dag i Minecraft!
 
 Supert! Her kommer neste del av eventyret, litt mer som folk i Horten ville sagt det:  
 
----  
-
-**Steves store gruveeventyr**  
+## Steves store gruveeventyr - Del 1 
 
 Steve våkna tidlig. Bikkja lå og sov ved døra. Han strakk seg og kikka ut. Perfekt dag for å gruve!  
 
@@ -105,7 +102,7 @@ Men så – en lyd bak ham. *Grrr…* En zombie! Og ikke bare én!
 
 Steve tok sverdet. "Kom igjen, da!"  
 
-**Steves store gruveeventyr – Del 2**  
+## Steves store gruveeventyr – Del 2
 
 Zombien kom nærmere. Så en til. Og en til! Steve løfta sverdet og slo til den første – SMACK! Den rygga, men de andre kom mot ham.  
 
@@ -122,7 +119,7 @@ Hjertet hamra. Hva kunne være inni?
 Forsiktig åpna han lokket…  
 
 
-**Steves store gruveeventyr – Del 3**  
+## Steves store gruveeventyr – Del 3
 
 Steve stirra ned i kista. **45 diamanter! 3 forheksa gull-epler! 64 jern!**  
 
@@ -136,7 +133,7 @@ Bikkja venta på ham ved døra. "Se hva jeg fant!" sa Steve og holdt opp en diam
 
 I morra skulle han lage **diamant-rustning og et nytt sverd**. Nå var han klar for neste eventyr!  
 
-**Steve og portalen til Nether**  
+## Steve og portalen til Nether
 
 Neste dag våkna Steve og strakk seg. Han så bort på diamantrusta han hadde lagd kvelden før. "I dag skjer det," sa han og klappa bikkja.  
 
@@ -155,7 +152,7 @@ Han begynte å gå, men plutselig – *SCREEEEE!* En ghast svevde over ham og sk
 Steve kasta seg bak en stein. "OK, dette blir farlig!"  
 
 
-**Steve og Nether-festen**  
+## Steve og Nether-festen
 
 Ghasten skreik igjen og sendte ei ny ildkule. Steve hoppa unna akkurat i tide. *BOOM!* Den slo ned i steinen bak ham.  
 
@@ -169,7 +166,7 @@ Plutselig – *KLONK, KLONK!* Noe stort nærma seg. Ut av skyggene kom et **With
 
 Steve løfta sitt eget sverd. "OK, la oss gjøre dette!"  
 
-**Steve og Wither-skjelettet**  
+## Steve og Wither-skjelettet
 
 Steve og Wither-skjelettet stirra på hverandre. Med et raskt skritt fram, svingte skjelettet sverdet. Steve blokkerte med sitt eget, men var ikke rask nok. Skjelettet traff ham i siden – *SPLASH!* Steve følte en brennende smerte.  
 
@@ -179,7 +176,7 @@ Men Wither-skjelettet var raskt. Det svingte sverdet igjen – og denne gangen t
 
 "Dette er ikke bra..." tenkte Steve. Med krefter som var i ferd med å forsvinne, måtte han finne en ny plan. Han visste at han måtte vente til han fikk helse tilbake, ellers var han ferdig.  
 
-**Steve og jakten på Ancient Debris**  
+## Steve og jakten på Ancient Debris
 
 Steve lå bak steinene og pusta tungt. Han visste at han ikke kom til å klare å bekjempe Wither-skjelettet nå. Så kom han på noe. **Ancient Debris**! Hvis han fant det, kunne han smelte det til **netherite** og lage seg enda bedre rustning og våpen.  
 
@@ -194,7 +191,7 @@ Så, rett foran ham, skimta han noe. Små, glitrende biter som lyste litt i den 
 Men akkurat da… *SKRIIEEEEK!* Ghasten igjen! Steve løp for livet, men han visste at han måtte tilbake til portalen før han ble fanget.  
 
 
-**Steve og Enderman-jakten**  
+## Steve og Enderman-jakten
 
 Steve løp mot portalen, men før han kom dit, la han merke til noe. En stor, svart skikkelse i skyggen av en stein. En **Enderman**!  
 
@@ -207,7 +204,7 @@ Steve var rask. Han svingte sverdet, men Endermanen var enda raskere. Den slo mo
 "Jeg skal ha den Ender Pearlen!" tenkte han. Med ett kastet han en **vatn-bøtte** på bakken. Endermanen reagerte umiddelbart og begynte å teleportere rundt ham.
 
 
-**Steve og Enderman-jakten – Fortsettelse**
+## Steve og Enderman-jakten – Fortsettelse
 
 Steve prøvde først å kaste en vannbøtte for å skremme Endermanen, men vann fordamper i Nether. "Fekk, det funker ikke her!" sa han.  
 
@@ -218,7 +215,7 @@ I stedet svingte han sverdet og ropte: "Gå vekk, din!" Endermanen ble forvirra 
 Hva skal Steve finne på videre?
 
 
-**Steve og blaze-jakta**  
+## Steve og blaze-jakta
 
 Steve sto midt i Nether og skuet rundt. Han visste at vann ikkje funka her – det fordampa med ein gong! Derfor måtte han finne ein anna måte å slå bleisene på.  
 
@@ -233,7 +230,7 @@ Med ein sekk full av bleis rads, var Steve endå meir klar for dei neste eventyr
 Hva trur du Steve skal gjere med alle dei nye bleis rads?
 
 
-**Steve og magiske øyet**  
+## Steve og magiske øyet
 
 Steve skuet nøye på alt han hadde samla: bleis rads og den glitrande ender perla frå Endermanen. No var det tid for å setje dei saman!  
 
@@ -245,7 +242,7 @@ Han visste at med det magiske øyet, kunne han finne veien til portalen som før
 
 Kva trur du Steve vil finne der om han følgjer øyets lys?
 
-**Steve og Enderportalen**
+## Steve og Enderportalen
 
 Steve stod foran den gamle, mistenksame steinramma i festninga. Det var her den sagnomsuste Enderportalen lå gjøymd, og han hadde samla dei magiske enderauga. Med blikket spent og henda skjelvande, byrja han å setje inn auge eitt etter eitt.  
 
@@ -259,7 +256,7 @@ Med Ender-dragen beseira og himmelen klar, vitte Steve at han no hadde oppnådd 
 
 Kva trur du neste eventyr vil bringe for Steve og vennane hans?
 
-**Steve og jakta på Elytra**
+## Steve og jakta på Elytra
 
 Steve hadde høyrt rykte om den legendariske elytraen – dei magiske vingene som kunne la ein sveve over himmelen. Etter å ha beseira Ender-dragen, visste han at nye eventyr venta i Endbyen.  
 
