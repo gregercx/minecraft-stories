@@ -6,19 +6,19 @@
   - [Steves nye venn](#steves-nye-venn)
   - [Steves første gård](#steves-første-gård)
   - [Steves første brød](#steves-første-brød)
-  - [Steves store gruveeventyr - Del 1](#steves-store-gruveeventyr---del-1)
-  - [Steves store gruveeventyr – Del 2](#steves-store-gruveeventyr--del-2)
-  - [Steves store gruveeventyr – Del 3](#steves-store-gruveeventyr--del-3)
+  - [Steves gruveeventyr – Del 1](#steves-gruveeventyr--del-1)
+  - [Steves gruveeventyr – Del 2](#steves-gruveeventyr--del-2)
+  - [Steves gruveeventyr – Del 3](#steves-gruveeventyr--del-3)
   - [Steve og portalen til Nether](#steve-og-portalen-til-nether)
   - [Steve og Nether-festen](#steve-og-nether-festen)
   - [Steve og Wither-skjelettet](#steve-og-wither-skjelettet)
   - [Steve og jakten på Ancient Debris](#steve-og-jakten-på-ancient-debris)
   - [Steve og Enderman-jakten](#steve-og-enderman-jakten)
-  - [Steve og Enderman-jakten – Fortsettelse](#steve-og-enderman-jakten--fortsettelse)
-  - [Steve og blaze-jakta](#steve-og-blaze-jakta)
-  - [Steve og magiske øyet](#steve-og-magiske-øyet)
+  - [Steve og Enderman-jakten – fortsettelse](#steve-og-enderman-jakten--fortsettelse)
+  - [Steve og blaze-jakten](#steve-og-blaze-jakten)
+  - [Steve og det magiske øyet](#steve-og-det-magiske-øyet)
   - [Steve og Enderportalen](#steve-og-enderportalen)
-  - [Steve og jakta på Elytra](#steve-og-jakta-på-elytra)
+  - [Steve og jakten på Elytra](#steve-og-jakten-på-elytra)
 
 ## Steves store dag
 
@@ -44,9 +44,9 @@ Han gikk ut. Skogen var stor. Han så et tre. Hugge, hugge! Nå hadde han mer tr
 
 Plutselig hørte han en lyd. "Voof!"  
 
-En ulv! Den så på Steve. Var den snill?  
+En hund! Den så på Steve. Var den snill?  
 
-Steve hadde et bein. Han rakte det fram. Ulven spiste. Poff! Nå hadde han en venn!  
+Steve hadde et bein. Han rakte det fram. Hunden spiste. Poff! Nå hadde han en venn!  
 
 "Kom, vi går!" sa Steve. Ulven fulgte etter. Nå var Steve ikke alene.  
 
@@ -54,7 +54,7 @@ En ny, fin dag i Minecraft!
 
 ## Steves første gård
 
-Neste dag våknet Steve og ulven. Magen rumlet. De trengte mat!  
+Neste dag våknet Steve og hunden. Magen rumlet. De trengte mat!  
 
 Steve gikk til en elv. Plask! Der vokste det sukker. Han tok litt.  
 
@@ -64,7 +64,7 @@ Plutselig – "Møø!" En ku! Steve hentet litt høy. Kua fulgte etter.
 
 Steve bygget et gjerde. Nå hadde han en ku! Snart ville han få melk.  
 
-Ulven bjeffet glad. Nå hadde de mat snart.  
+Hunden bjeffet glad. Nå hadde de mat snart.  
 
 En ny, fin dag i Minecraft!
 
@@ -86,52 +86,52 @@ Steve smilte. "Kom, vi finner kjøtt til deg!"
 Så dro de ut på jakt. En ny, fin dag i Minecraft!
 
 
-Supert! Her kommer neste del av eventyret, litt mer som folk i Horten ville sagt det:  
+## Steves gruveeventyr – Del 1
 
-## Steves store gruveeventyr - Del 1 
+Steve våknet tidlig. Hunden lå ved døra og sov. Han strakte seg og så ut. Det var en fin dag for å gå i gruva!
 
-Steve våkna tidlig. Bikkja lå og sov ved døra. Han strakk seg og kikka ut. Perfekt dag for å gruve!  
+Han pakket sekken. Hakke? Ja. Mat? Ja. Fakler? Mange. Han klappet hunden. "Bli her, jeg er snart tilbake!"
 
-Han pakka sekken: Hakke? Jepp. Mat? Jepp. Fakler? Mange nok. Så klappa han bikkja på hodet. "Bli her, jeg kommer snart!"  
+Han gikk til en hule han så i går. Det var mørkt, men han tente en fakkel og gikk inn. Det var stein overalt. Så hørte han *pling!* Jern! Han hogde det ut og tok det med.
 
-Han traska bort til ei hule han hadde sett dagen før. Det var mørkt der inne, men han tente en fakkel og gikk inn. Stein overalt. Plutselig – *pling!* Jern! Han hogg det ut og tok det med.  
+Lenger inn fant han gull. Så fant han diamanter! "Dette var lurt!" sa han.
 
-Dypere inn fant han gull. Enda dypere – diamanter! "Ja, dette var verdt det!" sa han til seg sjøl.  
+Men så – en lyd bak ham. *Grrr…* En zombie! Og flere kom!
 
-Men så – en lyd bak ham. *Grrr…* En zombie! Og ikke bare én!  
-
-Steve tok sverdet. "Kom igjen, da!"  
-
-## Steves store gruveeventyr – Del 2
-
-Zombien kom nærmere. Så en til. Og en til! Steve løfta sverdet og slo til den første – SMACK! Den rygga, men de andre kom mot ham.  
-
-Han snudde seg og løp. Gruva var mørk, bare faklene lyste svakt. Han måtte ut!  
-
-Men så – et hull i bakken! Han prøvde å stoppe, men beina sklei. "NEEEEI!"  
-
-Steve ramla rett ned i ei ny hule. Han landa med et dunk, hjertet dundra. Han rista på hodet. "Hvor i all verden er jeg nå?"  
-
-Han tente en ny fakkel og så seg rundt. Og der – midt i rommet – en **kiste!**  
-
-Hjertet hamra. Hva kunne være inni?  
-
-Forsiktig åpna han lokket…  
+Steve tok sverdet. "Kom igjen!"
 
 
-## Steves store gruveeventyr – Del 3
+## Steves gruveeventyr – Del 2
 
-Steve stirra ned i kista. **45 diamanter! 3 forheksa gull-epler! 64 jern!**  
+Zombien kom nærmere. Så kom en til. Og en til! Steve slo den første – SMACK! Den rygget, men de andre kom også.
 
-"Oi, dette er jo helt vilt!" sa han og grabba tak i alt sammen. Nå måtte han komme seg ut før flere monstre dukka opp.  
+Han snudde seg og løp. Gruva var mørk. Bare faklene lyste. Han måtte ut!
 
-Han så seg rundt. Ingen vei opp. Men han hadde jo jern! Han lagde ei bøtte, fant litt vann og helte det ned langs veggen. Nå kunne han klatre opp!  
+Men – et hull! Han prøvde å stoppe, men skled. "NEEEI!"
 
-Sakte men sikkert kom han seg opp igjen. Han sneik seg forbi zombiene, smatt ut av hula og løp hjem.  
+Han falt ned i en ny hule. Det dundret da han landet. "Hvor er jeg nå?" sa han.
 
-Bikkja venta på ham ved døra. "Se hva jeg fant!" sa Steve og holdt opp en diamant. Bikkja bjeffa glad.  
+Han tente en fakkel. Så så han – en **kiste!**
 
-I morra skulle han lage **diamant-rustning og et nytt sverd**. Nå var han klar for neste eventyr!  
+Hjertet banket fort. Hva var inni?
+
+Han åpnet lokket…
+
+
+## Steves gruveeventyr – Del 3
+
+Steve så i kista. **45 diamanter! 3 magiske epler! 64 jern!**
+
+"Wow!" sa han og tok alt. Nå måtte han komme seg ut – fort!
+
+Det var ingen vei opp. Men han hadde jern! Han lagde en bøtte, fant vann og helte det ned. Nå kunne han klatre!
+
+Sakte klatret han opp. Han snek seg forbi zombiene og løp hjem.
+
+Hunden ventet ved døra. "Se hva jeg fant!" sa Steve og viste en diamant. Hunden bjeffet.
+
+I morgen skulle han lage **diamantrustning og et nytt sverd**. Han var klar for neste tur!
+
 
 ## Steve og portalen til Nether
 
@@ -154,116 +154,124 @@ Steve kasta seg bak en stein. "OK, dette blir farlig!"
 
 ## Steve og Nether-festen
 
-Ghasten skreik igjen og sendte ei ny ildkule. Steve hoppa unna akkurat i tide. *BOOM!* Den slo ned i steinen bak ham.  
+Ghasten skrek og skjøt en ildkule. Steve hoppet unna i siste liten. *BOOM!* Den traff steinen bak ham.
 
-"Greit, du vil leke?" Steve trakk fram buen sin, la en pil på strengen og *swooosh!* Pila suste rett i trynet på ghasten. *PLAFF!* Den falt ned i lavaen.  
+"Greit, du vil sloss?" Steve tok fram buen, skjøt – *swooosh!* – og pilen traff ghasten midt i trynet. *PLAFF!* Den falt ned i lavaen.
 
-"Puh!" Steve tørka panna. Nå måtte han komme seg til den festningen. Kanskje det var **blaze** der? Eller en **Wither-skjelett**?  
+"Puh!" sa Steve og tørket panna. Nå måtte han komme seg til festningen. Kanskje det var **blaze** eller **Wither-skjelett** der?
 
-Han bygde seg en bro av netherrack og gikk sakte framover. Inne i festningen var det mørkt. Han lista seg inn.  
+Han bygde en bro av netherrack og gikk sakte over. Inne i festningen var det mørkt. Han listet seg fram.
 
-Plutselig – *KLONK, KLONK!* Noe stort nærma seg. Ut av skyggene kom et **Wither-skjelett** med et sverd i hånda!  
+Plutselig – *KLONK, KLONK!* Noe stort kom nærmere. Ut av skyggene kom et **Wither-skjelett** med sverd!
 
-Steve løfta sitt eget sverd. "OK, la oss gjøre dette!"  
+Steve løftet sitt eget. "OK, la oss gjøre dette!"
+
+
 
 ## Steve og Wither-skjelettet
 
-Steve og Wither-skjelettet stirra på hverandre. Med et raskt skritt fram, svingte skjelettet sverdet. Steve blokkerte med sitt eget, men var ikke rask nok. Skjelettet traff ham i siden – *SPLASH!* Steve følte en brennende smerte.  
+Steve og skjelettet så på hverandre. Det løp mot ham og svingte sverdet. Steve blokkerte, men rakk det ikke helt. Skjelettet traff ham i siden – *SPLASH!* Det brant.
 
-"Au!" ropte han og rygga unna. Han visste at han ikke kunne stå imot i lang tid. Med sitt siste håp kastet han et **healing-brett**. Han kjente hvordan kroppen hans begynte å lege seg sakte.  
+"Au!" ropte han og rygget. Han kunne ikke holde ut lenge. Som siste håp kastet han et **healing-brett**. Kroppen begynte å bli bedre.
 
-Men Wither-skjelettet var raskt. Det svingte sverdet igjen – og denne gangen traff det Steve i hodet. Han mistet balansen. *Bang!* Han falt bakover og rullet inn i en liten hule for å komme unna.  
+Men skjelettet var raskt. Det traff ham i hodet. Steve falt bakover og rullet inn i en liten hule.
 
-"Dette er ikke bra..." tenkte Steve. Med krefter som var i ferd med å forsvinne, måtte han finne en ny plan. Han visste at han måtte vente til han fikk helse tilbake, ellers var han ferdig.  
+"Dette går dårlig," tenkte han. Han måtte vente til han fikk mer liv – ellers var han ferdig.
+
+
 
 ## Steve og jakten på Ancient Debris
 
-Steve lå bak steinene og pusta tungt. Han visste at han ikke kom til å klare å bekjempe Wither-skjelettet nå. Så kom han på noe. **Ancient Debris**! Hvis han fant det, kunne han smelte det til **netherite** og lage seg enda bedre rustning og våpen.  
+Steve pustet tungt bak noen steiner. Han kunne ikke sloss nå. Men så kom han på noe: **Ancient Debris**!
 
-"Det er min eneste sjanse!" sa Steve til seg selv. Med raske steg og et bestemt blikk reiste han seg og begynte å lete. Han visste at Ancient Debris var sjeldent, men det var verdt å prøve.  
+"Hvis jeg finner det, kan jeg lage netherite!" sa han. Han reiste seg og begynte å lete.
 
-Han gikk dypere inn i festningen, og snart fant han en stor åpen lavagrop. Lavaen spruta rundt ham, men han klatra langs kanten forsiktig.  
+Han gikk dypere inn. Snart så han en stor lavagrop. Lavaen sprutet, men han klatret forsiktig langs kanten.
 
-Så, rett foran ham, skimta han noe. Små, glitrende biter som lyste litt i den mørke grotten. **Ancient Debris**!  
+Og der – noe som glitret svakt. **Ancient Debris!**
 
-"YES!" utbrøt han. Han tok fram hakka og begynte å hogge forsiktig. Det var ikke mye, men han fikk tak i tre biter. Han visste at han kunne bruke disse til å lage et par **netherite-ting** som kanskje kunne redde livet hans.  
+"YES!" ropte han. Han tok fram hakka og hogde forsiktig. Tre biter! Nok til noen **netherite-ting**.
 
-Men akkurat da… *SKRIIEEEEK!* Ghasten igjen! Steve løp for livet, men han visste at han måtte tilbake til portalen før han ble fanget.  
+Men så – *SKRIIIIK!* En ghast! Steve løp alt han kunne. Han måtte rekke portalen før han ble tatt.
+
 
 
 ## Steve og Enderman-jakten
 
-Steve løp mot portalen, men før han kom dit, la han merke til noe. En stor, svart skikkelse i skyggen av en stein. En **Enderman**!  
+Steve løp mot portalen. Men så så han noe – en høy, svart figur i skyggene. En **Enderman!**
 
-Steve visste hva han måtte gjøre. Ender Pearls var viktige for å komme til **The End** og bekjempe Ender-dragen. Han tok fram sverdet sitt og gikk forsiktig mot Endermanen.  
+Han visste hva han måtte gjøre. Han trengte **Ender Pearl** for å komme til **The End**.
 
-Plutselig – *SKRIK!* Endermanen snudde seg, og de svarte øynene stirra på Steve. Det var kamp.  
+Han tok fram sverdet og gikk nærmere. Plutselig – *SKRIK!* Endermanen snudde seg. Øynene lyste.
 
-Steve var rask. Han svingte sverdet, men Endermanen var enda raskere. Den slo mot ham med en kraftig høyre arm, og Steve følte et sterkt støt. Han rygga unna.  
+Kampen var i gang. Steve slo raskt, men Endermanen var enda raskere. Den traff ham hardt. Steve rygget.
 
-"Jeg skal ha den Ender Pearlen!" tenkte han. Med ett kastet han en **vatn-bøtte** på bakken. Endermanen reagerte umiddelbart og begynte å teleportere rundt ham.
-
-
-## Steve og Enderman-jakten – Fortsettelse
-
-Steve prøvde først å kaste en vannbøtte for å skremme Endermanen, men vann fordamper i Nether. "Fekk, det funker ikke her!" sa han.  
-
-I stedet svingte han sverdet og ropte: "Gå vekk, din!" Endermanen ble forvirra og hoppet rundt. Steve traff den med et raskt hugg. Plutselig fløy en liten, svart perle ut – en Ender Pearl!  
-
-"Perfekt!" sa Steve. Han plukka perlen opp. Nå hadde han det han trengte for å komme til The End og møte Ender-dragen.  
-
-Hva skal Steve finne på videre?
+"Jeg må få den perlen!" tenkte han. Han kastet en **vannbøtte** på bakken. Endermanen ble stresset og begynte å teleportere rundt.
 
 
-## Steve og blaze-jakta
 
-Steve sto midt i Nether og skuet rundt. Han visste at vann ikkje funka her – det fordampa med ein gong! Derfor måtte han finne ein anna måte å slå bleisene på.  
+## Steve og Enderman-jakten – fortsettelse
 
-Han skaffet seg sverdet sitt og tok fram buen, og gjemte seg bak nokre obsidian-blokker i festninga. Snart flaug ein stor bleis forbi med flammar som dansa.  
+Steve prøvde å skremme Endermanen med vann – men det funket ikke i Nether. "Å nei, vann virker ikke her!" ropte han.
 
-"Dette er no eg sin sjanse!" ropte Steve. Han svingte sverdet rett mot bleisen. Med eit kjapt hugg, var bleisen borte, og ned falla ein glitrande **bleis rad**.  
+Han tok sverdet og ropte: "Kom igjen da!" Endermanen ble forvirret. Steve traff den – og *poff!* en liten, svart perle fløy ut.
 
-"Yes, der har eg ein!" sa Steve stolt. Han plukka opp rota og gjentok taktikken for dei andre bleisene som sveiva rundt. Til slutt hadde han samla nok bleis rads til å lage nye, skikkelig fete ting.  
-
-Med ein sekk full av bleis rads, var Steve endå meir klar for dei neste eventyra i Nether – og han visste at han aldri måtte prøve med vann her, for då var det bare å seie "nei takk!"  
-
-Hva trur du Steve skal gjere med alle dei nye bleis rads?
+"Perfekt!" sa han. Han plukket den opp. Nå kunne han finne veien til **The End** og møte Ender-dragen.
 
 
-## Steve og magiske øyet
 
-Steve skuet nøye på alt han hadde samla: bleis rads og den glitrande ender perla frå Endermanen. No var det tid for å setje dei saman!  
+## Steve og blaze-jakten
 
-Han slappa ut dei små bitane, mala dei med sin arbeidsbenk og laga ein fin dose bleis-pulver. Så tok han den einaste ender perla han hadde, og la dei saman i ei liten kiste.  
+Steve sto midt i Nether. Han visste at vann ikke funker her – det forsvinner med en gang. Så han måtte finne en annen måte å slå bleisene på.
 
-Med eit trykk i verktøykassa – klikk, klikk – vart dei to gjenstandane til eit strålande **ender øye**! "No er veien til The End låst opp, kompis!" sa Steve med eit breitt smil.  
+Han tok sverdet og buen, og gjemte seg bak obsidianblokker i festningen. Snart kom en blaze flygende med flammer rundt seg.
 
-Han visste at med det magiske øyet, kunne han finne veien til portalen som førte til Enden, der eventyret og den store kampen mot Ender-dragen venta.  
+"Dette er sjansen!" ropte Steve. Han slo til – og vips, blazen var borte. En **blaze rod** falt ned.
 
-Kva trur du Steve vil finne der om han følgjer øyets lys?
+"Yes, jeg fikk en!" sa han. Han tok den opp og fortsatte. Til slutt hadde han mange **blaze rods**.
+
+Med sekken full var Steve klar for nye eventyr i Nether – og han visste én ting: aldri prøv vann her!
+
+
+
+## Steve og det magiske øyet
+
+Steve så på alt han hadde: **blaze rods** og en **Ender Pearl**. Nå var det tid for å lage det magiske **enderøyet**!
+
+Han lagde **blaze-pulver** og kombinerte det med perlen.
+
+*Klikk, klikk!* Nå hadde han et glødende **Ender Eye**!
+
+"Yes! Nå kan jeg finne portalen til The End!" sa Steve med et stort smil.
+
+Hva tror du han finner når han følger lyset?
+
+
 
 ## Steve og Enderportalen
 
-Steve stod foran den gamle, mistenksame steinramma i festninga. Det var her den sagnomsuste Enderportalen lå gjøymd, og han hadde samla dei magiske enderauga. Med blikket spent og henda skjelvande, byrja han å setje inn auge eitt etter eitt.  
+Steve sto foran den gamle steinrammen. Han hadde samlet **enderøyne**. Nå skulle han åpne portalen!
 
-For kvar enderauge han plukka inn, gløda ramma litt meir, og snart vart dei mørke blokkane omgjorda til ei portal som strålte i eit mystisk, lilla lys. "No er det på tide å sjå kva som ventar på den andre sida!" sa han, med eit smil om munnen.  
+Han satte inn ett øye om gangen. For hvert øye begynte rammen å lyse mer og mer. Til slutt åpnet det seg en portal med lilla lys.
 
-Utan å nøle, tok Steve eit djupt pust, smilte til bikkja si og sprang rett gjennom den blinkande portalen. Han landa i eit kaldt, tomt landskap – The End. Der sveva store, mørke øyer rundt han, og langt framme skimta han den frykta Ender-dragen som rødde og svau ild.  
+"Dette er det!" sa Steve. Han smilte til hunden og hoppet inn.
 
-Med både mot og dei nye kraftane frå dei bleis-radsgjerninga, gjekk Steve til kamp mot den mektige dragen. Kampen var hard og dramatisk, men til slutt, med eit kraftig hugg, slo han den ned.  
+Han landet i **The End** – et mørkt sted med flytende øyer. Og der, i det fjerne, fløy **Ender-dragen** og spyttet ild.
 
-Med Ender-dragen beseira og himmelen klar, vitte Steve at han no hadde oppnådd noko stort. Portalen til The End blikka igjen, og han visste at han kunne reise tilbake til den trygge verda – i alle fall for no.  
+Steve løp mot kampen. Det ble en hard fight. Men til slutt – *SMACK!* – dragen var nede.
 
-Kva trur du neste eventyr vil bringe for Steve og vennane hans?
+Steve hadde vunnet. Nå kunne han dra hjem – i hvert fall for en stund.
 
-## Steve og jakta på Elytra
 
-Steve hadde høyrt rykte om den legendariske elytraen – dei magiske vingene som kunne la ein sveve over himmelen. Etter å ha beseira Ender-dragen, visste han at nye eventyr venta i Endbyen.  
 
-Med hjerte som banka i takt med spenninga, flaug han over dei mørke øyane i The End. Plutseleg såg han eit gammalt, vrakka skipsvrak som sveiva fritt. "Der, der er det!" ropte han. Han landa forsiktig ved skipsvraket, og der, i ein støvete krok, låg elytraen og glitra i ein svakt lilla glød.  
+## Steve og jakten på Elytra
 
-"Dette er det eg har venta på!" sa Steve stolt. Han plukka opp dei magiske vingene, og straks kjende han ein lettheit i kroppen – som om han sjølv vart ein med vinden. Med elytraen fest i ryggen, spreidde han vingene og tok sats.  
+Steve hadde hørt om **elytra** – vinger som lar deg fly! Nå som dragen var slått, ville han finne dem.
 
-Så sat han ut i det store, vide eventyret, svevande over The End-øyane, klar for nye, spennande reiser. Hva trur du ventar der oppe, høgt over skyene?
+Han fløy rundt i The End og så et gammelt skip som svevde.
 
-Steve fløy stille over The End med sine nye elytra. Ingenting uventet skjedde – berre den roen og friheten som fyller himmelen når du svevar fritt. Han nøyt freden og visste at, sjølv om ingenting stort skjedde akkurat no, ville nye eventyr alltid vente på han rundt neste hjørne.
+"Der er det!" ropte han. Han landet og fant **elytra** i et støvete hjørne. De glitret svakt i lilla lys.
+
+"Endelig!" sa han. Han tok dem på. Med vingene på ryggen hoppet han – og svevde!
+
+Steve fløy høyt over øyene. Fri og glad. Hva tror du han finner over skyene?
